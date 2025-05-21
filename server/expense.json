@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Groceries",
+    "amount": 150,
+    "date": "2024-05-21"
+  },
+  {
+    "id": 2,
+    "title": "Rent",
+    "amount": 800,
+    "date": "2024-05-01"
+  },
+  {
+    "id": 19,
+    "title": "shopping",
+    "amount": "1000",
+    "date": "2025-05-21"
+  },
+  {
+    "id": 40,
+    "title": "hair-care",
+    "amount": "1000",
+    "date": "2025-05-21"
+  },
+  {
+    "id": 0,
+    "title": "skin-care",
+    "amount": "500",
+    "date": "2025-05-21"
+  },
+  {
+    "id": 0,
+    "title": "self-care",
+    "amount": "500",
+    "date": "2025-05-21"
+  },
+  {
+    "id": 48,
+    "title": "other-care",
+    "amount": "200",
+    "date": "2025-05-21"
+  }
+]
